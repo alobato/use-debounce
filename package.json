@@ -1,0 +1,31 @@
+{
+  "name": "@alobato/use-debounce",
+  "version": "1.0.0",
+  "description": "React hook debounce",
+  "main": "index.js",
+  "repository": "github:alobato/use-debounce",
+  "author": "alobato",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "debounce"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "devDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/alobato/use-debounce/issues"
+  },
+  "homepage": "https://github.com/alobato/use-debounce#readme"
+}
